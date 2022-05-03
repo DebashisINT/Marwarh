@@ -15,7 +15,7 @@
         android:background="@drawable/rounded_corner_white_bg"
         android:orientation="vertical">
 
-        <com.marwahfoods.widgets.AppCustomTextView
+        <com.marwarhfoods.widgets.AppCustomTextView
             android:id="@+id/dialog_new_order_confirmed_headerTV"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -33,7 +33,7 @@
             android:layout_marginLeft="@dimen/_7sdp"
             android:layout_marginRight="@dimen/_7sdp"/>
 
-        <com.marwahfoods.widgets.AppCustomTextView
+        <com.marwarhfoods.widgets.AppCustomTextView
             android:id="@+id/dialog_new_order_confirmed_header_TV"
             android:layout_width="match_parent"
             android:layout_height="@dimen/_40sdp"
@@ -57,7 +57,7 @@
             android:layout_height="@dimen/_35sdp"
             android:orientation="horizontal">
 
-            <com.marwahfoods.widgets.AppCustomTextView
+            <com.marwarhfoods.widgets.AppCustomTextView
                 android:id="@+id/tv_message_no"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -72,7 +72,7 @@
                 android:textColor="@drawable/selector_text_clor_blue_white"
                 android:textSize="@dimen/_13sdp" />
 
-            <com.marwahfoods.widgets.AppCustomTextView
+            <com.marwarhfoods.widgets.AppCustomTextView
                 android:id="@+id/tv_message_yes"
                 android:layout_marginLeft="@dimen/_2sdp"
                 android:layout_width="match_parent"

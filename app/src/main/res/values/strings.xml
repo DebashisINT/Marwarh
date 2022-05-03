@@ -1,6 +1,6 @@
 <resources>
     <!--<string name="app_name">Field Tracking System</string>-->
-    <string name="app_name" translatable="false">MarwahFoods</string>
+    <string name="app_name" translatable="false">Marwarhfoods</string>
     <string name="blank" translatable="false"></string>
     <string name="enter_a_title" translatable="false">Enter a title</string>
     <string name="entry_details_default_text" translatable="false">Entry Details!</string>
@@ -420,12 +420,12 @@
     <string name="email" translatable="false">Email ID</string>
 
 
-    <!--marwahfoods-->
-    <string name="marwahfoods_user_name" translatable="false">Mr. Kinsuk Roy</string>
-    <string name="marwahfoods_login" translatable="false">Logged in at 10:55 AM</string>
-    <string name="marwahfoods_location" translatable="false">You have covered the distance of 3 KM in last hour </string>
-    <string name="marwahfoods_shops" translatable="false">You have visited 2 shops</string>
-    <string name="marwahfoods_time" translatable="false">10:30 AM</string>
+    <!--marwarhfoods-->
+    <string name="marwarhfoods_user_name" translatable="false">Mr. Kinsuk Roy</string>
+    <string name="marwarhfoods_login" translatable="false">Logged in at 10:55 AM</string>
+    <string name="marwarhfoods_location" translatable="false">You have covered the distance of 3 KM in last hour </string>
+    <string name="marwarhfoods_shops" translatable="false">You have visited 2 shops</string>
+    <string name="marwarhfoods_time" translatable="false">10:30 AM</string>
 
     <!--Change Password-->
     <string name="old_pwd" translatable="false">Old Password</string>
@@ -488,8 +488,8 @@
     <string name="capture_shop_image" translatable="false">Capture an image of shop</string>
     <string name="welcome" translatable="false">Welcome</string>
     <string name="vikas_malhotra" translatable="false">Vikash Malhotra</string>
-    <string name="dashboard_marwahfoods_item" translatable="false">10.30\nAM</string>
-    <string name="dashboard_marwahfoods_address" translatable="false">SDF Building, GP Block, Saltlake </string>
+    <string name="dashboard_marwarhfoods_item" translatable="false">10.30\nAM</string>
+    <string name="dashboard_marwarhfoods_address" translatable="false">SDF Building, GP Block, Saltlake </string>
     <string name="ten" translatable="false">10</string>
     <string name="five" translatable="false">5</string>
     <string name="organization_name" translatable="false">Nordusk</string>
@@ -1470,7 +1470,7 @@
     <string name="error_enter_canceled_by" translatable="false">Please enter cancelled by</string>
 
 
-    <string name="tfe_od_app_name" translation_description="Object Detection marwahfoods app [CHAR_LIMIT=40]">Face Recognition</string>
+    <string name="tfe_od_app_name" translation_description="Object Detection marwarhfoods app [CHAR_LIMIT=40]">Face Recognition</string>
     <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
     <string name="label_install_anydesk" translatable="false">Install Anydesk</string>
     <string name="label_open_anydesk" translatable="false">Open Anydesk</string>

@@ -57,7 +57,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/order_amt_TV"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
@@ -68,7 +68,7 @@
                                 android:textColor="@color/light_gray"
                                 android:textSize="@dimen/_10sdp" />
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/order_amt_p_TV"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
@@ -98,7 +98,7 @@
                             android:layout_marginLeft="@dimen/_7sdp"
                             android:layout_toRightOf="@id/view1">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/total_v_TV"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
@@ -109,7 +109,7 @@
                                 android:textColor="@color/light_gray"
                                 android:textSize="@dimen/_10sdp" />
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/total_visited_value_TV"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
@@ -131,7 +131,7 @@
                         android:layout_height="wrap_content"
                         android:layout_below="@id/order_wrapper_RL">
 
-                        <com.marwahfoods.widgets.AppCustomTextView
+                        <com.marwarhfoods.widgets.AppCustomTextView
                             android:id="@+id/quot_amt_TV"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -142,7 +142,7 @@
                             android:textColor="@color/light_gray"
                             android:textSize="@dimen/_10sdp" />
 
-                        <com.marwahfoods.widgets.AppCustomTextView
+                        <com.marwarhfoods.widgets.AppCustomTextView
                             android:id="@+id/quot_amt_p_TV"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -178,7 +178,7 @@
                         android:layout_marginLeft="@dimen/_7sdp"
                         android:layout_toRightOf="@+id/view2">
 
-                        <com.marwahfoods.widgets.AppCustomTextView
+                        <com.marwarhfoods.widgets.AppCustomTextView
                             android:id="@+id/last_visited_TV"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -189,7 +189,7 @@
                             android:textColor="@color/light_gray"
                             android:textSize="@dimen/_10sdp" />
 
-                        <com.marwahfoods.widgets.AppCustomTextView
+                        <com.marwarhfoods.widgets.AppCustomTextView
                             android:id="@+id/last_visited_date_TV"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -241,7 +241,7 @@
                             android:layout_height="wrap_content"
                             android:layout_toRightOf="@id/type_IV">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/shop_type_label_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -256,7 +256,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_below="@id/shop_type_label_TV">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/shop_type_TV"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -330,7 +330,7 @@
                             android:layout_height="wrap_content"
                             android:layout_toRightOf="@+id/assigned_to_pp_iv">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/assigned_to_pp_header_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -345,7 +345,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_below="@+id/assigned_to_pp_header_TV">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/assigned_to_pp_TV"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -414,7 +414,7 @@
                             android:layout_height="wrap_content"
                             android:layout_toRightOf="@id/iv_dealer">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/dealer_header_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -424,7 +424,7 @@
                                 android:textColor="@color/light_gray"
                                 android:textSize="@dimen/_10sdp" />
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/dealer_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -494,7 +494,7 @@
                             android:layout_height="wrap_content"
                             android:layout_toRightOf="@+id/assigned_to_dd_iv">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/assigned_to_dd_header_tv"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -509,7 +509,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_below="@+id/assigned_to_dd_header_tv">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/assigned_to_dd_TV"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -576,7 +576,7 @@
                             android:layout_height="wrap_content"
                             android:layout_toRightOf="@id/assigned_to_iv">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/assigned_to_header_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -586,7 +586,7 @@
                                 android:textColor="@color/light_gray"
                                 android:textSize="@dimen/_10sdp" />
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/assigned_to_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -627,7 +627,7 @@
                             android:layout_height="wrap_content"
                             android:layout_toRightOf="@id/iv_retailer">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/retailer_header_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -637,7 +637,7 @@
                                 android:textColor="@color/light_gray"
                                 android:textSize="@dimen/_10sdp" />
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/retailer_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -710,7 +710,7 @@
                             android:layout_marginTop="@dimen/_5sdp"
                             android:layout_toRightOf="@id/iv_assign_to_shop">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/tv_assign_to_shop_header"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -720,7 +720,7 @@
                                 android:textColor="@color/light_gray"
                                 android:textSize="@dimen/_10sdp" />
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/tv_assign_to_shop"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -789,7 +789,7 @@
                             android:layout_height="wrap_content"
                             android:layout_toRightOf="@id/iv_beat">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/beat_header_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -799,7 +799,7 @@
                                 android:textColor="@color/light_gray"
                                 android:textSize="@dimen/_10sdp" />
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/beat_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -852,7 +852,7 @@
                             android:layout_height="wrap_content"
                             android:layout_toRightOf="@id/name_IV">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/shop_name_label_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -862,7 +862,7 @@
                                 android:textColor="@color/light_gray"
                                 android:textSize="@dimen/_10sdp" />
 
-                            <com.marwahfoods.widgets.AppCustomEditText
+                            <com.marwarhfoods.widgets.AppCustomEditText
                                 android:id="@+id/shop_name_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -919,7 +919,7 @@
                             android:layout_height="wrap_content"
                             android:layout_toRightOf="@id/project_name_IV">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/project_name_label_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -929,7 +929,7 @@
                                 android:textColor="@color/light_gray"
                                 android:textSize="@dimen/_10sdp" />
 
-                            <com.marwahfoods.widgets.AppCustomEditText
+                            <com.marwarhfoods.widgets.AppCustomEditText
                                 android:id="@+id/project_name_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -973,7 +973,7 @@
                             android:layout_height="wrap_content"
                             android:layout_toRightOf="@id/agency_IV">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/agency_label_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -983,7 +983,7 @@
                                 android:textColor="@color/light_gray"
                                 android:textSize="@dimen/_10sdp" />
 
-                            <com.marwahfoods.widgets.AppCustomEditText
+                            <com.marwarhfoods.widgets.AppCustomEditText
                                 android:id="@+id/agency_name_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -1041,7 +1041,7 @@
                             android:src="@drawable/ic_prospect_lead_new" />
 
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/prospect_tv"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -1051,7 +1051,7 @@
                                 android:textColor="@color/light_gray"
                                 android:textSize="@dimen/_10sdp" />
 
-                        <com.marwahfoods.widgets.AppCustomTextView
+                        <com.marwarhfoods.widgets.AppCustomTextView
                             android:id="@+id/tv_prospect_asterisk_mark"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -1064,7 +1064,7 @@
                             android:textSize="@dimen/_15sdp"
                             android:visibility="gone" />
 
-                        <com.marwahfoods.widgets.AppCustomTextView
+                        <com.marwarhfoods.widgets.AppCustomTextView
                             android:id="@+id/prospect_name"
                             android:layout_below="@+id/prospect_tv"
                             android:layout_width="match_parent"
@@ -1110,7 +1110,7 @@
                             android:layout_height="wrap_content"
                             android:layout_toRightOf="@+id/type_iv">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/type_header_tv"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -1125,7 +1125,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_below="@+id/type_header_tv">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/type_TV"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -1193,7 +1193,7 @@
                             android:layout_height="wrap_content"
                             android:layout_toRightOf="@id/address_IV">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/address_label_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -1203,7 +1203,7 @@
                                 android:textColor="@color/light_gray"
                                 android:textSize="@dimen/_10sdp" />
 
-                            <com.marwahfoods.widgets.AppCustomEditText
+                            <com.marwarhfoods.widgets.AppCustomEditText
                                 android:id="@+id/address_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -1263,7 +1263,7 @@
                             android:layout_marginTop="@dimen/_5sdp"
                             android:layout_toRightOf="@id/pincode_IV">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/pincode_label_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -1273,7 +1273,7 @@
                                 android:textColor="@color/light_gray"
                                 android:textSize="@dimen/_10sdp" />
 
-                            <com.marwahfoods.widgets.AppCustomEditText
+                            <com.marwarhfoods.widgets.AppCustomEditText
                                 android:id="@+id/pincode_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -1338,7 +1338,7 @@
                             android:layout_marginTop="@dimen/_5sdp"
                             android:layout_toRightOf="@id/iv_area">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/tv_area_header"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -1348,7 +1348,7 @@
                                 android:textColor="@color/light_gray"
                                 android:textSize="@dimen/_10sdp" />
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/tv_area"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -1418,7 +1418,7 @@
                             android:layout_marginTop="@dimen/_5sdp"
                             android:layout_toRightOf="@id/iv_entity">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/tv_entity_header"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -1428,7 +1428,7 @@
                                 android:textColor="@color/light_gray"
                                 android:textSize="@dimen/_10sdp" />
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/tv_entity"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -1499,7 +1499,7 @@
                             android:layout_marginTop="@dimen/_5sdp"
                             android:layout_toRightOf="@id/iv_party">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/tv_party_header"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -1509,7 +1509,7 @@
                                 android:textColor="@color/light_gray"
                                 android:textSize="@dimen/_10sdp" />
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/tv_party"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -1559,7 +1559,7 @@
                     </RelativeLayout>
 
 
-                    <com.marwahfoods.widgets.AppCustomTextView
+                    <com.marwarhfoods.widgets.AppCustomTextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="@dimen/_20sdp"
@@ -1590,7 +1590,7 @@
                             android:layout_marginTop="@dimen/_5sdp"
                             android:layout_toRightOf="@id/shop_location_IV">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/view_on_map_label_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -1600,7 +1600,7 @@
                                 android:textColor="@color/light_gray"
                                 android:textSize="@dimen/_10sdp" />
 
-                            <com.marwahfoods.widgets.AppCustomEditText
+                            <com.marwarhfoods.widgets.AppCustomEditText
                                 android:id="@+id/ownwr_name_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -1665,7 +1665,7 @@
                             android:layout_height="wrap_content"
                             android:layout_toRightOf="@id/call_shop_IV">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/owner_contact_no_label_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -1683,7 +1683,7 @@
                                 android:paddingLeft="@dimen/_5sdp"
                                 android:paddingRight="@dimen/_5sdp">
 
-                                <com.marwahfoods.widgets.AppCustomEditText
+                                <com.marwarhfoods.widgets.AppCustomEditText
                                     android:id="@+id/owner_contact_no_TV"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -1731,7 +1731,7 @@
                                         android:src="@drawable/ic_check"
                                         android:visibility="gone" />
 
-                                    <com.marwahfoods.widgets.AppCustomTextView
+                                    <com.marwarhfoods.widgets.AppCustomTextView
                                         android:id="@+id/tv_verified"
                                         android:layout_width="wrap_content"
                                         android:layout_height="wrap_content"
@@ -1771,7 +1771,7 @@
                             android:layout_height="wrap_content"
                             android:layout_toRightOf="@id/land_shop_IV">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/land_no_label_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -1789,7 +1789,7 @@
                                 android:paddingLeft="@dimen/_5sdp"
                                 android:paddingRight="@dimen/_5sdp">
 
-                                <com.marwahfoods.widgets.AppCustomEditText
+                                <com.marwarhfoods.widgets.AppCustomEditText
                                     android:id="@+id/land_contact_no_TV"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -1821,7 +1821,7 @@
                                         android:src="@drawable/ic_check"
                                         android:visibility="gone" />
 
-                                    <com.marwahfoods.widgets.AppCustomTextView
+                                    <com.marwarhfoods.widgets.AppCustomTextView
                                         android:id="@+id/tv_landverified"
                                         android:layout_width="wrap_content"
                                         android:layout_height="wrap_content"
@@ -1862,7 +1862,7 @@
                             android:layout_height="wrap_content"
                             android:layout_toRightOf="@id/alternate_IV">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/alternate_label_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -1880,7 +1880,7 @@
                                 android:paddingLeft="@dimen/_5sdp"
                                 android:paddingRight="@dimen/_5sdp">
 
-                                <com.marwahfoods.widgets.AppCustomEditText
+                                <com.marwarhfoods.widgets.AppCustomEditText
                                     android:id="@+id/alternate_no_TV"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -1912,7 +1912,7 @@
                                         android:src="@drawable/ic_check"
                                         android:visibility="gone" />
 
-                                    <com.marwahfoods.widgets.AppCustomTextView
+                                    <com.marwarhfoods.widgets.AppCustomTextView
                                         android:id="@+id/tv_alternateverified"
                                         android:layout_width="wrap_content"
                                         android:layout_height="wrap_content"
@@ -1953,7 +1953,7 @@
                             android:layout_height="wrap_content"
                             android:layout_toRightOf="@id/whatsappp_IV">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/whatsappp_label_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -1971,7 +1971,7 @@
                                 android:paddingLeft="@dimen/_5sdp"
                                 android:paddingRight="@dimen/_5sdp">
 
-                                <com.marwahfoods.widgets.AppCustomEditText
+                                <com.marwarhfoods.widgets.AppCustomEditText
                                     android:id="@+id/whatsappp_no_TV"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -2003,7 +2003,7 @@
                                         android:src="@drawable/ic_check"
                                         android:visibility="gone" />
 
-                                    <com.marwahfoods.widgets.AppCustomTextView
+                                    <com.marwarhfoods.widgets.AppCustomTextView
                                         android:id="@+id/tv_whatsapppverified"
                                         android:layout_width="wrap_content"
                                         android:layout_height="wrap_content"
@@ -2047,7 +2047,7 @@
                             android:layout_marginLeft="@dimen/_5sdp"
                             android:layout_toRightOf="@id/amount_IV">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/amount_label_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -2057,7 +2057,7 @@
                                 android:textColor="@color/light_gray"
                                 android:textSize="@dimen/_10sdp" />
 
-                            <com.marwahfoods.widgets.AppCustomEditText
+                            <com.marwarhfoods.widgets.AppCustomEditText
                                 android:id="@+id/amount_ET"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -2120,7 +2120,7 @@
                             android:layout_height="wrap_content"
                             android:layout_toRightOf="@id/email_IV">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/owner_email_label_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -2130,7 +2130,7 @@
                                 android:textColor="@color/light_gray"
                                 android:textSize="@dimen/_10sdp" />
 
-                            <com.marwahfoods.widgets.AppCustomEditText
+                            <com.marwarhfoods.widgets.AppCustomEditText
                                 android:id="@+id/owner_email_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -2182,7 +2182,7 @@
                                 android:layout_marginTop="@dimen/_5sdp"
                                 android:layout_toRightOf="@id/iv_model">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_model_header"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -2192,7 +2192,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_model"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -2263,7 +2263,7 @@
                                 android:layout_marginTop="@dimen/_5sdp"
                                 android:layout_toRightOf="@id/iv_primary_application">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_primary_application_header"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -2273,7 +2273,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_primary_application"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -2344,7 +2344,7 @@
                                 android:layout_marginTop="@dimen/_5sdp"
                                 android:layout_toRightOf="@id/iv_secondary_application">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_secondary_application_header"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -2354,7 +2354,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_secondary_application"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -2426,7 +2426,7 @@
                                 android:layout_marginTop="@dimen/_5sdp"
                                 android:layout_toRightOf="@id/booking_amount_IV">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/booking_amount_label_TV"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -2436,7 +2436,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomEditText
+                                <com.marwarhfoods.widgets.AppCustomEditText
                                     android:id="@+id/et_booking_amount"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -2500,7 +2500,7 @@
                                 android:layout_marginTop="@dimen/_5sdp"
                                 android:layout_toRightOf="@id/iv_lead_type">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_lead_type_header"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -2510,7 +2510,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_lead_type"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -2581,7 +2581,7 @@
                                 android:layout_marginTop="@dimen/_5sdp"
                                 android:layout_toRightOf="@id/iv_stage">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_stage_header"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -2591,7 +2591,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_stage"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -2661,7 +2661,7 @@
                                 android:layout_marginTop="@dimen/_5sdp"
                                 android:layout_toRightOf="@id/iv_funnel_stage">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_funnel_stage_header"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -2671,7 +2671,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_funnel_stage"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -2742,7 +2742,7 @@
                             android:layout_height="wrap_content"
                             android:layout_toRightOf="@id/owner_dob_IV">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/dob_label_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -2752,7 +2752,7 @@
                                 android:textColor="@color/light_gray"
                                 android:textSize="@dimen/_10sdp" />
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/ownwr_dob_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -2794,7 +2794,7 @@
                             android:layout_height="wrap_content"
                             android:layout_toRightOf="@id/owner_ani_IV">
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/ani_label_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -2804,7 +2804,7 @@
                                 android:textColor="@color/light_gray"
                                 android:textSize="@dimen/_10sdp" />
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/ownwr_ani_TV"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -2831,7 +2831,7 @@
                         android:orientation="vertical"
                         android:visibility="gone">
 
-                        <com.marwahfoods.widgets.AppCustomTextView
+                        <com.marwarhfoods.widgets.AppCustomTextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="@dimen/_17sdp"
@@ -2860,7 +2860,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_toRightOf="@id/iv_dir_name">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_dir_name"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -2870,7 +2870,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomEditText
+                                <com.marwarhfoods.widgets.AppCustomEditText
                                     android:id="@+id/et_dir_name_value"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -2933,7 +2933,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_toRightOf="@id/iv_family_dob">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_family_dob_header"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -2943,7 +2943,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_family_dob"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -2983,7 +2983,7 @@
                             </RelativeLayout>
                         </RelativeLayout>
 
-                        <com.marwahfoods.widgets.AppCustomTextView
+                        <com.marwarhfoods.widgets.AppCustomTextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="@dimen/_17sdp"
@@ -3012,7 +3012,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_toRightOf="@id/iv_person_name">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_person_name"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3022,7 +3022,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomEditText
+                                <com.marwarhfoods.widgets.AppCustomEditText
                                     android:id="@+id/et_person_name_value"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3085,7 +3085,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_toRightOf="@id/iv_person_no">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_person_no"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3095,7 +3095,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomEditText
+                                <com.marwarhfoods.widgets.AppCustomEditText
                                     android:id="@+id/et_person_no_value"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3159,7 +3159,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_toRightOf="@id/iv_add_dob">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_add_dob_header"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3169,7 +3169,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_add_dob"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3211,7 +3211,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_toRightOf="@id/iv_add_doa">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_doa_header"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3221,7 +3221,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_add_doa"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3252,7 +3252,7 @@
                         android:orientation="vertical"
                         android:visibility="gone">
 
-                        <com.marwahfoods.widgets.AppCustomTextView
+                        <com.marwarhfoods.widgets.AppCustomTextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="@string/more_info"
@@ -3278,7 +3278,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_toRightOf="@id/iv_deg_attachment_icon">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_degree_header"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3288,7 +3288,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_degree_img_link"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3300,7 +3300,7 @@
                                     android:textColor="@color/login_txt_color"
                                     android:textSize="@dimen/_11sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_attachment_asterisk_mark"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
@@ -3341,7 +3341,7 @@
                                 android:layout_marginTop="@dimen/_5sdp"
                                 android:layout_toRightOf="@id/iv_specialization">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_specialization_header"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3351,7 +3351,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomEditText
+                                <com.marwarhfoods.widgets.AppCustomEditText
                                     android:id="@+id/et_specialization"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3367,7 +3367,7 @@
                                     android:textColor="@color/login_txt_color"
                                     android:textSize="@dimen/_11sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_specalization_asterisk_mark"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
@@ -3408,7 +3408,7 @@
                                 android:layout_marginTop="@dimen/_5sdp"
                                 android:layout_toRightOf="@id/iv_patient_count">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_patient_count_header"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3418,7 +3418,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_patient_asterisk_mark"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
@@ -3430,7 +3430,7 @@
                                     android:textColor="@color/red"
                                     android:textSize="@dimen/_15sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomEditText
+                                <com.marwarhfoods.widgets.AppCustomEditText
                                     android:id="@+id/et_patient_count"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3476,7 +3476,7 @@
                                 android:layout_marginTop="@dimen/_5sdp"
                                 android:layout_toRightOf="@id/iv_category_icon">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_category_header"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3486,7 +3486,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomEditText
+                                <com.marwarhfoods.widgets.AppCustomEditText
                                     android:id="@+id/et_category"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3502,7 +3502,7 @@
                                     android:textColor="@color/login_txt_color"
                                     android:textSize="@dimen/_11sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_category_asterisk_mark"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
@@ -3544,7 +3544,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_toRightOf="@id/iv_doc_family_dob">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_doc_family_dob_header"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3554,7 +3554,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_doc_family_dob"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3566,7 +3566,7 @@
                                     android:textColor="@color/login_txt_color"
                                     android:textSize="@dimen/_11sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_doc_family_mem_dob_asterisk_mark"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
@@ -3609,7 +3609,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_toRightOf="@id/iv_doc_address_icon">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_doc_add_header"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3619,7 +3619,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomEditText
+                                <com.marwarhfoods.widgets.AppCustomEditText
                                     android:id="@+id/et_doc_add"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3635,7 +3635,7 @@
                                     android:textColor="@color/login_txt_color"
                                     android:textSize="@dimen/_11sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_doc_address_asterisk_mark"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
@@ -3676,7 +3676,7 @@
                                 android:layout_marginTop="@dimen/_5sdp"
                                 android:layout_toRightOf="@id/doc_pincode_IV">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_doc_pincode"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3686,7 +3686,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomEditText
+                                <com.marwarhfoods.widgets.AppCustomEditText
                                     android:id="@+id/et_doc_pincode"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3702,7 +3702,7 @@
                                     android:textColor="@color/login_txt_color"
                                     android:textSize="@dimen/_11sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_doc_pincode_asterisk_mark"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
@@ -3724,7 +3724,7 @@
                             </RelativeLayout>
                         </RelativeLayout>
 
-                        <com.marwahfoods.widgets.AppCustomTextView
+                        <com.marwarhfoods.widgets.AppCustomTextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="@dimen/_15sdp"
@@ -3747,7 +3747,7 @@
                                 android:layout_marginRight="@dimen/_5sdp"
                                 app:srcCompat="@drawable/ic_hospital" />
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/tv_chamber_asterisk_mark"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
@@ -3758,7 +3758,7 @@
                                 android:textColor="@color/red"
                                 android:textSize="@dimen/_15sdp" />
 
-                            <com.marwahfoods.widgets.AppCustomTextView
+                            <com.marwarhfoods.widgets.AppCustomTextView
                                 android:id="@+id/tv_chamber_header"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
@@ -3787,7 +3787,7 @@
                                         android:contentDescription="@null"
                                         android:src="@drawable/selector_check_box" />
 
-                                    <com.marwahfoods.widgets.AppCustomTextView
+                                    <com.marwarhfoods.widgets.AppCustomTextView
                                         android:layout_width="wrap_content"
                                         android:layout_height="wrap_content"
                                         android:layout_marginLeft="@dimen/_5sdp"
@@ -3809,7 +3809,7 @@
                                         android:contentDescription="@null"
                                         android:src="@drawable/selector_check_box" />
 
-                                    <com.marwahfoods.widgets.AppCustomTextView
+                                    <com.marwarhfoods.widgets.AppCustomTextView
                                         android:layout_width="wrap_content"
                                         android:layout_height="wrap_content"
                                         android:layout_marginLeft="@dimen/_5sdp"
@@ -3829,7 +3829,7 @@
                                 android:layout_marginBottom="@dimen/_5sdp"
                                 android:layout_toRightOf="@+id/iv_chamber_icon">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_remarks_header"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3839,7 +3839,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomEditText
+                                <com.marwarhfoods.widgets.AppCustomEditText
                                     android:id="@+id/et_remarks"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3885,7 +3885,7 @@
                                 android:layout_marginTop="@dimen/_5sdp"
                                 android:layout_toRightOf="@id/chemist_name_IV">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_chemist_name"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3895,7 +3895,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomEditText
+                                <com.marwarhfoods.widgets.AppCustomEditText
                                     android:id="@+id/et_chemist_name"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3911,7 +3911,7 @@
                                     android:textColor="@color/login_txt_color"
                                     android:textSize="@dimen/_11sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_chemist_name_asterisk_mark"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
@@ -3953,7 +3953,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_toRightOf="@id/iv_chemist_address_icon">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_chemist_add_header"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3963,7 +3963,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomEditText
+                                <com.marwarhfoods.widgets.AppCustomEditText
                                     android:id="@+id/et_chemist_add"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -3979,7 +3979,7 @@
                                     android:textColor="@color/login_txt_color"
                                     android:textSize="@dimen/_11sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_chemist_address_asterisk_mark"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
@@ -4020,7 +4020,7 @@
                                 android:layout_marginTop="@dimen/_5sdp"
                                 android:layout_toRightOf="@id/chemist_pincode_IV">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_chemist_pincode"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -4030,7 +4030,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomEditText
+                                <com.marwarhfoods.widgets.AppCustomEditText
                                     android:id="@+id/et_chemist_pincode"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -4046,7 +4046,7 @@
                                     android:textColor="@color/login_txt_color"
                                     android:textSize="@dimen/_11sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_chemist_pincode_asterisk_mark"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
@@ -4068,7 +4068,7 @@
                             </RelativeLayout>
                         </RelativeLayout>
 
-                        <com.marwahfoods.widgets.AppCustomTextView
+                        <com.marwarhfoods.widgets.AppCustomTextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="@dimen/_5sdp"
@@ -4096,7 +4096,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_toRightOf="@id/iv_assistant_name_icon">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_assistant_name_header"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -4106,7 +4106,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomEditText
+                                <com.marwarhfoods.widgets.AppCustomEditText
                                     android:id="@+id/et_assistant_name"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -4151,7 +4151,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_toRightOf="@id/iv_assistant_no_icon">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_assistant_no_header"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -4161,7 +4161,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomEditText
+                                <com.marwarhfoods.widgets.AppCustomEditText
                                     android:id="@+id/et_assistant_no"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -4207,7 +4207,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_toRightOf="@id/iv_assistant_dob">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_assistant_dob_header"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -4217,7 +4217,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_assistant_dob"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -4259,7 +4259,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_toRightOf="@id/iv_assistant_doa">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_assistant_doa_header"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -4269,7 +4269,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_assistant_doa"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -4310,7 +4310,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_toRightOf="@id/iv_assistant_family_dob">
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_assistant_family_dob_header"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -4320,7 +4320,7 @@
                                     android:textColor="@color/light_gray"
                                     android:textSize="@dimen/_10sdp" />
 
-                                <com.marwahfoods.widgets.AppCustomTextView
+                                <com.marwarhfoods.widgets.AppCustomTextView
                                     android:id="@+id/tv_assistant_family_dob"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -4342,7 +4342,7 @@
                     </LinearLayout>
 
 
-                    <com.marwahfoods.widgets.AppCustomTextView
+                    <com.marwarhfoods.widgets.AppCustomTextView
                         android:id="@+id/save_TV"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -4385,7 +4385,7 @@
             android:src="#60000000"
             android:visibility="visible" />
 
-        <com.marwahfoods.app.widgets.TouchImageView
+        <com.marwarhfoods.app.widgets.TouchImageView
             android:id="@+id/popup_image"
             android:layout_width="match_parent"
             android:layout_height="match_parent"

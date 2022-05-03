@@ -131,7 +131,7 @@
             wheel:matProg_progressIndeterminate="true" />
 
 
-        <com.marwahfoods.widgets.AppCustomTextView
+        <com.marwarhfoods.widgets.AppCustomTextView
             android:id="@+id/no_quot_tv"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -167,7 +167,7 @@
 
     </FrameLayout>
 
-    <com.marwahfoods.widgets.AppCustomTextView
+    <com.marwarhfoods.widgets.AppCustomTextView
         android:id="@+id/update_TV_frag_view_details_quot_list"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

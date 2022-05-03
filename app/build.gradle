@@ -22,7 +22,7 @@ android {
     compileSdkVersion 30
     buildToolsVersion "30.0.3"
     defaultConfig {
-        applicationId "com.marwahfoods"
+        applicationId "com.marwarhfoods"
         minSdkVersion 24
         targetSdkVersion 30
         versionCode 83

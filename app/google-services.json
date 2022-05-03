@@ -33,6 +33,35 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652388842028:android:f7be8955cf90a114d6af89",
+        "android_client_info": {
+          "package_name": "com.marwarhfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652388842028-o61frgt9a45c5l7t3jamtuieuqpm43cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4_4lZOx3dS7fe10WfNC7miDpViqeKIX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652388842028-o61frgt9a45c5l7t3jamtuieuqpm43cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"

@@ -62,7 +62,7 @@
                             android:textColorHint="@color/black"
                             app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout">
 
-                            <com.marwahfoods.widgets.AppCustomEditText
+                            <com.marwarhfoods.widgets.AppCustomEditText
                                 android:id="@+id/et_patient"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -102,7 +102,7 @@
                             android:textColorHint="@color/black"
                             app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout">
 
-                            <com.marwahfoods.widgets.AppCustomEditText
+                            <com.marwarhfoods.widgets.AppCustomEditText
                                 android:id="@+id/et_address"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -142,7 +142,7 @@
                             android:textColorHint="@color/black"
                             app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout">
 
-                            <com.marwahfoods.widgets.AppCustomEditText
+                            <com.marwarhfoods.widgets.AppCustomEditText
                                 android:id="@+id/et_phone"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -184,7 +184,7 @@
                             android:textColorHint="@color/black"
                             app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout">
 
-                            <com.marwahfoods.widgets.AppCustomEditText
+                            <com.marwarhfoods.widgets.AppCustomEditText
                                 android:id="@+id/et_lab"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -224,7 +224,7 @@
                             android:textColorHint="@color/black"
                             app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout">
 
-                            <com.marwahfoods.widgets.AppCustomEditText
+                            <com.marwarhfoods.widgets.AppCustomEditText
                                 android:id="@+id/et_emailaddress"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -272,7 +272,7 @@
                             android:textColorHint="@color/black"
                             app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout">
 
-                            <com.marwahfoods.widgets.AppCustomEditText
+                            <com.marwarhfoods.widgets.AppCustomEditText
                                 android:id="@+id/et_invoice_no"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -315,7 +315,7 @@
                         android:layout_marginTop="@dimen/_5sdp"
                         android:orientation="vertical">
 
-                        <com.marwahfoods.widgets.AppCustomTextView
+                        <com.marwarhfoods.widgets.AppCustomTextView
                             android:id="@+id/tv_invoice_date"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -364,7 +364,7 @@
                         android:textColorHint="@color/black"
                         app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout">
 
-                        <com.marwahfoods.widgets.AppCustomEditText
+                        <com.marwarhfoods.widgets.AppCustomEditText
                             android:id="@+id/et_invoice_amount"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
@@ -393,7 +393,7 @@
                 android:layout_marginRight="@dimen/_10sdp"
                 android:orientation="vertical">
 
-                <com.marwahfoods.widgets.AppCustomTextView
+                <com.marwarhfoods.widgets.AppCustomTextView
                     android:id="@+id/tv_attachment"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -438,7 +438,7 @@
                         android:textColorHint="@color/black"
                         app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout">
 
-                        <com.marwahfoods.widgets.AppCustomEditText
+                        <com.marwarhfoods.widgets.AppCustomEditText
                             android:id="@+id/et_remark"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
@@ -492,7 +492,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="0.7">
 
-                <com.marwahfoods.widgets.AppCustomTextView
+                <com.marwarhfoods.widgets.AppCustomTextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center"
@@ -501,7 +501,7 @@
                     android:textSize="@dimen/_11sdp"
                     android:textStyle="bold" />
 
-                <com.marwahfoods.widgets.AppCustomTextView
+                <com.marwarhfoods.widgets.AppCustomTextView
                     android:id="@+id/tv_total_order_value"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -517,7 +517,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1">
 
-                <com.marwahfoods.widgets.AppCustomTextView
+                <com.marwarhfoods.widgets.AppCustomTextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center"
@@ -526,7 +526,7 @@
                     android:textSize="@dimen/_11sdp"
                     android:textStyle="bold" />
 
-                <com.marwahfoods.widgets.AppCustomTextView
+                <com.marwarhfoods.widgets.AppCustomTextView
                     android:id="@+id/tv_total_order_amount"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"

@@ -18,7 +18,7 @@
         android:paddingBottom="@dimen/_5sdp"
         android:paddingTop="@dimen/_5sdp">
 
-        <com.marwahfoods.widgets.AppCustomTextView
+        <com.marwarhfoods.widgets.AppCustomTextView
             android:id="@+id/date_tv"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -30,7 +30,7 @@
 
 
 
-        <com.marwahfoods.widgets.AppCustomTextView
+        <com.marwarhfoods.widgets.AppCustomTextView
             android:id="@+id/feedback_tv"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

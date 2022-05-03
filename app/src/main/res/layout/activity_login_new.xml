@@ -27,7 +27,7 @@
             android:background="@drawable/ic_new_login_bg_new3">
 
 
-            <com.marwahfoods.widgets.AppCustomTextView
+            <com.marwarhfoods.widgets.AppCustomTextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignParentRight="true"
@@ -55,7 +55,7 @@
                     android:layout_gravity="center"
                   />
 
-                <com.marwahfoods.widgets.AppCustomTextView
+                <com.marwarhfoods.widgets.AppCustomTextView
                     android:id="@+id/Logo_name_TV"
                     android:layout_below="@+id/logo_new"
                     android:layout_width="wrap_content"
@@ -69,7 +69,7 @@
                     android:textSize="@dimen/_12sdp"
                     android:layout_marginTop="@dimen/_10sdp"/>
 
-                <com.marwahfoods.widgets.AppCustomTextView
+                <com.marwarhfoods.widgets.AppCustomTextView
                     android:id="@+id/app_title_TV"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -133,7 +133,7 @@
                                                 android:layout_gravity="center"
                                                 app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout">
 
-                                                <com.marwahfoods.widgets.AppCustomEditText
+                                                <com.marwarhfoods.widgets.AppCustomEditText
                                                     android:id="@+id/username_EDT"
                                                     android:layout_width="match_parent"
                                                     android:layout_height="match_parent"
@@ -248,7 +248,7 @@
 <!--                            android:thumb="@drawable/login_rem_thumb_selector"-->
 <!--                            wheel:track="@drawable/login_rem_track_selector" />-->
 
-                        <com.marwahfoods.widgets.AppCustomTextView
+                        <com.marwarhfoods.widgets.AppCustomTextView
                             android:id="@+id/share_log_login_TV"
                             android:layout_width="wrap_content"
                             android:layout_height="match_parent"
@@ -265,7 +265,7 @@
                     </RelativeLayout>
 
 
-                    <com.marwahfoods.widgets.AppCustomTextView
+                    <com.marwarhfoods.widgets.AppCustomTextView
                         android:id="@+id/forgot_password_TV"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -276,7 +276,7 @@
                         android:textSize="@dimen/_11sdp"
                         android:visibility="gone" />
 
-                    <!--<com.marwahfoods.widgets.AppCustomTextView
+                    <!--<com.marwarhfoods.widgets.AppCustomTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="@dimen/_15sdp"
@@ -285,7 +285,7 @@
                         android:textSize="@dimen/_12sdp"
                         android:textStyle="bold"/>
 
-                    <com.marwahfoods.widgets.AppCustomTextView
+                    <com.marwarhfoods.widgets.AppCustomTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="@dimen/_15sdp"
@@ -305,7 +305,7 @@
                     android:layout_marginTop="@dimen/_7sdp"
                     android:layout_below="@+id/tv_internet_info">
 
-                    <com.marwahfoods.widgets.AppCustomTextView
+                    <com.marwarhfoods.widgets.AppCustomTextView
                         android:id="@+id/activity_login_tvappCustomAnydeskInfo"
                         android:layout_width="@dimen/_45sdp"
                         android:layout_height="@dimen/_35sdp"
@@ -332,7 +332,7 @@
 <!--                        android:layout_marginStart="@dimen/_1sdp"-->
 <!--                        android:visibility="invisible">-->
 
-<!--                        <com.marwahfoods.widgets.AppCustomTextView-->
+<!--                        <com.marwarhfoods.widgets.AppCustomTextView-->
 <!--                            android:id="@+id/activity_login_tvappCustomAnydesk"-->
 <!--                            android:layout_width="wrap_content"-->
 <!--                            android:layout_height="wrap_content"-->
@@ -345,7 +345,7 @@
 <!--                            android:textColor="@color/white"-->
 <!--                            android:textSize="@dimen/_8sdp" />-->
 
-<!--                        <com.marwahfoods.widgets.AppCustomTextView-->
+<!--                        <com.marwarhfoods.widgets.AppCustomTextView-->
 <!--                            android:id="@+id/activity_login_tvappCustomLogs"-->
 <!--                            android:layout_width="wrap_content"-->
 <!--                            android:layout_height="wrap_content"-->
@@ -362,7 +362,7 @@
 
                 </LinearLayout>
 
-                <com.marwahfoods.widgets.AppCustomTextView
+                <com.marwarhfoods.widgets.AppCustomTextView
                     android:id="@+id/tv_internet_info"
                     android:layout_width="@dimen/_265sdp"
                     android:layout_height="wrap_content"
@@ -390,7 +390,7 @@
 
     </ScrollView>
 
-    <com.marwahfoods.widgets.AppCustomTextView
+    <com.marwarhfoods.widgets.AppCustomTextView
         android:id="@+id/version_name_TV"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
