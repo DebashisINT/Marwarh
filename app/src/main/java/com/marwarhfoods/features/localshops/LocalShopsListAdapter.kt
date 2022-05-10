@@ -379,7 +379,13 @@ class LocalShopsListAdapter(context: Context, list: List<AddShopDBModelEntity>, 
             itemView.history_llll.setOnClickListener {
                 listener.onHistoryClick(list[adapterPosition])
             }
-
+            if (Pref.isOrderShow) {
+                itemView.add_order_ll.visibility = View.VISIBLE
+                itemView.direction_view.visibility = View.VISIBLE
+            } else {
+                itemView.add_order_ll.visibility = View.GONE
+                itemView.direction_view.visibility = View.GONE
+            }
 
         }
     }
